@@ -1,0 +1,1 @@
+The Connect Four game in Java is a console-based two-player experience. Players take turns dropping their pieces into a 7x6 grid. The code enforces turn-based moves, validates user input, and checks for horizontal, vertical, and diagonal winning conditions. The game concludes with a victory announcement or a draw, offering classic gaming excitement.
